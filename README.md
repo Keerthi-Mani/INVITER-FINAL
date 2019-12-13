@@ -6,8 +6,8 @@ Inviter sends postcards and invitations to the users contacts. The user must sig
 <b>Built with</b>
 - [Express](https://expressjs.com/)
 <b>Fast, unopinionated, minimalist web framework for Node.js<b>
-- [Nodemailer](https://expressjs.com/)
-<b>Nodemailer is a module for Node.js applications to allow easy as cake email sending.<b>
+- [SendGrid](https://sendgrid.com/)
+<b>SendGrid is a module for Node.js applications to allow easy as cake email sending.<b>
 - [Nexmo](https://www.nexmo.com/products/sms/)
 <b>Create contextual, effective communication with our SMS API.<b>
 - [Passport](http://www.passportjs.org/)
